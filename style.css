@@ -1,0 +1,97 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+
+#main{
+    margin: auto;
+    height: 32rem;
+    width: 18rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+    
+    background-color: white;
+}
+
+#login{
+    margin-top: 10px;
+    box-sizing: border-box;
+    padding-left: 7.5rem;
+    padding-top: 6px;
+}
+
+#form{
+    padding-top: 1px;
+    width: 14rem;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+#social{
+ 
+  width: 13rem;
+  margin: auto;
+  font-size: 9px;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+#boton{
+    border: none;
+    margin-left: 0.8rem;
+    width: 12rem;
+    height: 1.7rem;
+    border-radius: 10px;
+    font-size: 11px;
+    
+    
+
+}
+
+#boton:hover{
+    background-color: rgb(187, 184, 184);
+}
+
+img{
+    height: 1.7rem;
+    width: 1.7rem;
+}
+footer{
+    width: 13rem;
+    margin: auto;
+    font-size: 9px;
+    text-align: center;
+    margin-top: 6rem;
+
+}
+.campo{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 13rem;
+    height: 1.5rem;
+}
+label{
+    font-size: 11px;
+}
+::placeholder{
+    font-size: 12px;
+    opacity: 0.3;
+}
+#forgot{
+    font-size: 9px;
+    margin-left: 140px;
+}
+#back{
+    margin: 0%;
+    padding: 0%;
+    height: 100vw;
+    width: 100vw;
+}
+body{
+    margin: 0;
+    background-image: url(fondo.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
