@@ -1,20 +1,20 @@
 *{
     font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
 }
 
 
 #main{
     margin: auto;
-    height: 32rem;
-    width: 18rem;
-    margin-top: 2rem;
+    height: 34rem;
+    width: 19rem;
+    margin-top: 6rem;
     border-radius: 10px;
-    
     background-color: white;
 }
 
 #login{
-    
+
     margin-top: 10px;
     box-sizing: border-box;
     padding-left: 7.5rem;
@@ -26,6 +26,7 @@
     width: 14rem;
     margin: auto;
     margin-top: 2rem;
+
 }
 
 #social{
@@ -63,7 +64,7 @@ footer{
     margin: auto;
     font-size: 9px;
     text-align: center;
-    margin-top: 6rem;
+    margin-top: 7.3rem;
 
 }
 .campo{
@@ -80,8 +81,8 @@ label{
     opacity: 0.3;
 }
 #forgot{
-    font-size: 9px;
-    margin-left: 140px;
+    font-size: 0.5rem;
+    margin-left: 9rem;
 }
 #back{
     margin: 0%;
@@ -91,7 +92,7 @@ label{
 }
 body{
     margin: 0;
-    background-image: url(fondo.webp);
+    background-image: url(abstract.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

@@ -1,0 +1,145 @@
+*{
+    font-family: "Roboto", sans-serif;  
+    box-sizing: border-box;
+}
+body{
+
+    background-image: url(Artboard\ 1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  
+}
+
+#main{
+    height: 28rem;
+    width: 750px;
+    margin: auto;
+    margin-top: 130px;
+    position: relative;
+    background-color: white;
+  
+}
+
+#left{
+    height: 450px;
+    width: 320px;
+
+    padding-top: 1.4rem;
+}
+
+#title{
+ 
+    width: 16rem;
+    height: 2.4rem;
+    font-size: 8px;
+    margin: auto;
+    padding-left: 1.3rem;
+    position: relative;
+    box-sizing: border-box;
+
+}
+h2{
+    padding-left: 17px;
+    position: absolute;
+    opacity: 70%;
+}
+
+#header{
+
+    font-size: 18px;
+    width: 11rem;
+    height: 6rem;
+    margin: auto;
+    font-size: 13;
+    margin-top: 20px;
+    position: relative;
+    display: flex;
+
+}
+
+
+
+#ciudad{
+    height: 28rem;
+    width: 26.5rem;
+    top: 0;
+    left: 20.4rem;
+    box-sizing: border-box;
+    position: absolute;
+    background-color: rgb(253, 188, 222);
+
+}
+#imagen{
+    height: 23rem;
+    width: 23rem;
+    margin-top: 2.3rem;
+    margin-left: 1.7rem;
+ 
+}
+
+#formulario{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 250px;
+    width: 17rem;
+    box-sizing: border-box;
+    padding-left: 0.7rem;
+    margin: auto;
+    margin-top: 0;
+  
+
+}
+.cajas{
+    width: 15rem;
+    height: 1.8rem;
+    margin: 6.5px;
+    opacity: 45%;
+}
+#boton{
+    height: 1.6rem;
+    width: 5.5rem;
+    border-radius: 10px;
+    font-size: 10px;
+    margin-top: 8px;
+    margin-left: 6px;
+    border: none;
+    background-color:rgb(245, 115, 173) ;
+    color: white;
+
+}
+p{
+    font-size: 10px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    opacity: 0.5;
+}
+::placeholder{
+    padding-left: 0.7rem;
+}
+
+#icon{
+    height: 40px;
+    width: 45px;
+
+    position: absolute;
+    top: 0;
+    right: 3.7rem;
+}
+h1{
+    position: absolute;
+    top: 1.7rem;
+    opacity: 70%;
+}
+#logou{
+height: 27px;
+position: absolute;
+top: 3px;
+left: 0;
+}
+
+#boton:hover{
+    background-color: rgb(249, 79, 155);
+}
